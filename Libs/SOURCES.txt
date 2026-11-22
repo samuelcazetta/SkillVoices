@@ -1,0 +1,6 @@
+Embedded libraries, copied from the installed TomTom distribution (no runtime dependency on TomTom).
+Original source and license notices are preserved in the library files.
+LibStub: https://www.wowace.com/projects/libstub
+CallbackHandler-1.0: https://www.wowace.com/projects/callbackhandler
+LibDataBroker-1.1: https://github.com/tekkub/libdatabroker-1-1
+LibDBIcon-1.0: https://www.wowace.com/projects/libdbicon-1-0/

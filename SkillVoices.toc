@@ -1,0 +1,19 @@
+## Interface: 120005
+## Title: SkillVoices
+## Notes: Spell voice addon
+## Author: Samuel Cazetta
+## Version: 2.2
+## SavedVariablesPerCharacter: SkillVoicesCharacterDB
+
+
+## IconTexture: Interface\Icons\Spell_Arcane_Arcane01
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+
+Sounds.lua
+Mappings.lua
+SkillVoices.lua
+Options.lua
