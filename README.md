@@ -1,4 +1,5 @@
 # SkillVoices
+![Human Written](https://img.shields.io/badge/Code-Human%20Written-brightgreen)
 
 Give your spells a voice! SkillVoices plays a random voice clip when you cast a spell, with an easy editor to make it your own.
 
